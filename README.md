@@ -28,9 +28,11 @@ Coloured Poodles has a modified .ymt file which allows for the Poodle to have mo
 
 Depending on the GTA 5 game build/version you are running, the amount of add-on clothing packs you are able to stream, seems to be as following:
 
-- b1604 (mpchristmas2018 'Arena Wars') Default FiveM Game Build - 14 ymt files.
-- b2189 (mpheist4 'Cayo Perico) - 6 ymt files
-- b2372 (mptuner 'Tuners DLC') - 4 ymt files.
+| Game build number | Alias           | Description                           | YMT files |
+|------------------:|:----------------|:--------------------------------------|----------:|
+|              1604 | mpchristmas2018 | Arena Wars (default FiveM game build) |        14 |
+|              2189 | mpheist4        | Cayo Perico Heist                     |         6 |
+|              2372 | mptuners        | Tuners DLC                            |         4 |
 
 Please take this into consideration before downloading and adding this to your server.
 
