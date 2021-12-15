@@ -22,6 +22,19 @@ _**Video Preview:**_
 
 2. Add `start Coloured-Poodles` to your server.cfg
 
+
+# Single Player:
+
+Open OpenIV and Copy x64e.rpf to mods folder
+
+Open OpenIV and go to x64e.rpf > models > cdimages > componentpeds_a_c.rpf > drag the a_c_poodle.ytd and a_c_poodle.ymt files into to componentpeds_a_c.rpf
+
+Start Grand Theft Auto V
+
+Use Menyoo or any trainer and select the poodle ped (a_c_poodle)
+
+Enjoy =)
+
 # Regarding YMT files in FiveM
 
 Coloured Poodles has a modified .ymt file which allows for the Poodle to have more than one texture, because of this, it is important to know that if you have any custom add-on clothing in your server, you may run into game crashes.
