@@ -1,4 +1,4 @@
-# Coloured Poodles for FiveM 🐩
+# Coloured Poodles for Single Player and FiveM 🐩
 
 You wouldn't be caught dead with a hat or purse that didn't match the colour of your aura, so why settle for less with any other accessory, like a poodle? Now available in a variety of colours, from the classic white to an unnaturally fashionable pink.
 
@@ -18,7 +18,7 @@ _**Video Preview:**_
 
 # Installing
 
-1. Add to your resources folder.
+1. Add to your FiveM resources folder.
 
 2. Add `start Coloured-Poodles` to your server.cfg
 
