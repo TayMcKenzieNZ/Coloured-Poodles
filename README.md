@@ -46,8 +46,11 @@ Depending on the GTA 5 game build/version you are running, the amount of add-on 
 |              1604 | mpchristmas2018 | Arena Wars (default FiveM game build) |        14 |
 |              2189 | mpheist4        | Cayo Perico Heist                     |         6 |
 |              2372 | mptuners        | Tuners DLC                            |         4 |
+|              2545 | mpsecurity      | The Contract                          |         2 |
 
 Please take this into consideration before downloading and adding this to your server.
+
+You can read more about limits, add-on clothing YMTs and more, courtesy of DurtyFree, [here](https://github.com/DurtyFree/durty-cloth-tool/wiki/YMT-game-limit-and-crash-issues)
 
 
 ---------------------------------------
