@@ -47,6 +47,7 @@ Depending on the GTA 5 game build/version you are running, the amount of add-on 
 |              2189 | mpheist4        | Cayo Perico Heist                     |         6 |
 |              2372 | mptuners        | Tuners DLC                            |         4 |
 |              2545 | mpsecurity      | The Contract                          |         2 |
+|              2612 | mpg9ec          | ExPaNdEd AnD eNhAnCeD                 |         20 **(Estimated)** |
 
 Please take this into consideration before downloading and adding this to your server.
 
@@ -57,12 +58,12 @@ You can read more about limits, add-on clothing YMTs and more, courtesy of Durty
 
 # License 
 
-This project does not contain a license, therefore you are not allowed to add one and claim it as yours.
+This project **does not** contain a license, therefore you are **not allowed** to add one and claim it as yours.
 
-You are not allowed to sell this nor re-distribute it. 
+You are **not allowed** to sell this nor re-distribute it. 
 
-You are not allowed to change/add a license. If you want to modify or make an agreement, you can contact me. 
+You are **not allowed** to change/add a license. If you want to modify or make an agreement, **you can contact me**. 
 
-Pull requests are accepted as long as they do not contain breaking changes. 
+Pull requests are accepted as long as they **do not** contain breaking changes. 
 
 You can read more here [HERE](https://opensource.stackexchange.com/questions/1720/what-can-i-assume-if-a-publicly-published-project-has-no-license)
